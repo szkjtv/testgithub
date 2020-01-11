@@ -1,4 +1,4 @@
-package main
+package test
 
 func add(x, y int) int {
 
